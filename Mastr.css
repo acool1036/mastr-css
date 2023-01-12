@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 button.yellow{
+	Font-size:18px;
 	border-radius:5px;
 	background-position: center left 5px, center left 5px;
         font-family: 'Roboto', sans-serif;
