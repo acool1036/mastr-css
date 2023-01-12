@@ -2,8 +2,10 @@ button.yellow{
   Background-color:#e0e64c;
   color:#ffffff;
   border-radius: 0px;
-  border: none;
+  border: 1px solid #ddd;
 }
 button.yellow:hover{
-Background-color:#c7cc41;
+ border: 1px solid #ddd;
+ border: none;
+ Background-color:#c7cc41;
 }
