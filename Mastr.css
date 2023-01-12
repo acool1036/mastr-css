@@ -2,6 +2,7 @@ button.yellow{
   Background-color:#ffff00;
   color:ffffff;
   border-radius: 5px;
+  border: 0px solid #ffff00 ;
 }
 button.yellow:hover{
 border: 2px solid #ffff00 ;
