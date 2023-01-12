@@ -1,7 +1,7 @@
 button.yellow{
   Background-color:#ffff00;
   color:ffffff;
-  border-radius: 15px;
+  border-radius: 5px;
 }
 button.yellow:hover{
 border: 2px solid #ffff00 ;
