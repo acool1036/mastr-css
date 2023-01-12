@@ -1,11 +1,18 @@
 button.yellow{
-  Background-color:#e0e64c;
-  color:#ffffff;
-  border-radius: 0px;
   border: 1px solid #ddd;
+   background-color: #f0f0f0;
+  
+    
+    -o-transition: background-color .2s ease-in; 
+	-moz-transition: background-color .2s ease-in;
+	-webkit-transition: background-color .2s ease-in; 
+	transition: background-color .2s ease-in; 
 }
 button.yellow:hover{
- border: 1px solid #ddd;
- border: none;
- Background-color:#c7cc41;
+ background-color: #cccc00;    
 }
+
+button.yellow:active {
+    background-color: #b3b300;
+}
+
