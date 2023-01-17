@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
+
+/* Add Yellow Button */
+
 button.yellow{
 	Font-size:18px;
 	border-radius:5px;
@@ -20,5 +23,28 @@ button.yellow:hover{
 
 button.yellow:active {
     	background-color: #b3b300;
+}
+
+/* Add Blue Button */
+button.blue{
+	Font-size:18px;
+	border-radius:5px;
+	background-position: center left 5px, center left 5px;
+        font-family: 'Roboto', sans-serif;
+        border: 1px solid #ddd;
+        background-color: #0066ff
+  
+    
+       -o-transition: background-color .2s ease-in; 
+	-moz-transition: background-color .2s ease-in;
+	-webkit-transition: background-color .2s ease-in; 
+	transition: background-color .2s ease-in; 
+}
+button.blue:hover{
+        background-color: #005ce6;    
+}
+
+button.blue:active {
+    	background-color: #0052cc;
 }
 
