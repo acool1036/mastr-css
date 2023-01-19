@@ -9,7 +9,7 @@ button.yellow{
 	background-position: center left 5px, center left 5px;
         font-family: 'Roboto', sans-serif;
         border: 1px solid #ddd;
-        background-color: #e6e600;
+        background-color: white;
   
     
        -o-transition: background-color .2s ease-in; 
@@ -32,7 +32,7 @@ button.blue{
 	background-position: center left 5px, center left 5px;
         font-family: 'Roboto', sans-serif;
         border: 1px solid #ddd;
-        background-color: #0066ff
+        background-color: white;
   
     
        -o-transition: background-color .2s ease-in; 
